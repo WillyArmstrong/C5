@@ -1,0 +1,8 @@
+C:\Users\willy\source\repos\C1\C1\bin\Debug\C1.exe.config
+C:\Users\willy\source\repos\C1\C1\bin\Debug\C1.exe
+C:\Users\willy\source\repos\C1\C1\bin\Debug\C1.pdb
+C:\Users\willy\source\repos\C1\C1\obj\Debug\C1.csproj.AssemblyReference.cache
+C:\Users\willy\source\repos\C1\C1\obj\Debug\C1.csproj.SuggestedBindingRedirects.cache
+C:\Users\willy\source\repos\C1\C1\obj\Debug\C1.csproj.CoreCompileInputs.cache
+C:\Users\willy\source\repos\C1\C1\obj\Debug\C1.exe
+C:\Users\willy\source\repos\C1\C1\obj\Debug\C1.pdb
